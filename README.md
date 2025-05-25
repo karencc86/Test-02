@@ -2,6 +2,6 @@
 
 In this other repository create two more projects in Python: 
 
-➡️ Analyzing billing data for fictional stores, 
+➡️ Analyzing billing data for fictional stores.
 
 ➡️ Visual hand recognition project.
